@@ -1,0 +1,1 @@
+data.raw['recipe']['iron-chest'].enabled = false;
